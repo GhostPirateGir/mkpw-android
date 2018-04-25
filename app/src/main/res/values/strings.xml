@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mkpw</string>
+    <string name="masterpassword">Master Password</string>
+    <string name="showpassword">Show Password</string>
+    <string name="domain">Domain</string>
+    <string name="clear">Clear</string>
+    <string name="url_safe_base64">URL-safe Base64</string>
+</resources>
